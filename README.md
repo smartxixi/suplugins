@@ -1,0 +1,2 @@
+# suplugins
+study django
